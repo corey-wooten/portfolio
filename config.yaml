@@ -1,4 +1,4 @@
-baseURL: "https://coreywooten.com/"
+baseURL: "https://www.coreywooten.com/"
 languageCode: "en-us"
 title: "Corey Wooten"
 theme: hugo-profile
@@ -61,8 +61,8 @@ Menus:
 params:
   title: "Corey Wooten"
   description: Text about my cool site
-  staticPath: "/"  # The path to serve the static files from
-  favicon: "https://coreywooten.com/images/fav.png"
+  staticPath: "static"  # The path to serve the static files from
+  favicon: "/images/fav.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -137,7 +137,7 @@ params:
     title: "Corey."
     subtitle: "Innovating the future with passion and precision."
     content: "Text goes here."
-    image: https://coreywooten.com/images/hero.svg
+    image: /images/hero.svg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
