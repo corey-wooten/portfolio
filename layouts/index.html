@@ -21,6 +21,7 @@
 {{- partial "sections/contact.html" . -}}
 {{ end }} 
 
+{{ if eq hugo.Environment "production" }}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -56,3 +57,9 @@
     </div>
 </body>
 </html>
+{{ else }}
+  {{/* Show the normal homepage content */}}
+  {{ partial "header.html" . }}
+  {{ block "main" . }}{{ end }}
+  {{ partial "footer.html" . }}
+{{ end }}
