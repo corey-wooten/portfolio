@@ -1,6 +1,11 @@
 [build]
   publish = "public"
-  command = "hugo --gc --minify --buildFuture --themesDir themes/"
+  command = "hugo --gc --minify --buildFuture --themesDir themes/" 
+
+[[headers]]
+  for = "/images/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
 
 [context.production.environment]
   HUGO_VERSION = "0.145.0"
