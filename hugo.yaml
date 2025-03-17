@@ -137,7 +137,7 @@ params:
     title: "Corey."
     subtitle: "Innovating the future with passion and precision."
     content: "Text goes here."
-    image: https://coreywooten.com/images/hero.png
+    image: images/hero.png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
