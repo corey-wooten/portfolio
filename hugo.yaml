@@ -137,7 +137,7 @@ params:
     title: "Corey."
     subtitle: "Innovating the future with passion and precision."
     content: "Text goes here."
-    image: /images/hero.svg
+    image: static/images/hero.svg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -161,7 +161,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    image: "static/images/me.png"
     content: |-
       I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA.
 
