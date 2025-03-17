@@ -137,7 +137,7 @@ params:
     title: "Corey."
     subtitle: "Innovating the future with passion and precision."
     content: "Text goes here."
-    image: /images/hero.svg
+    image: "images/hero.svg"
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
