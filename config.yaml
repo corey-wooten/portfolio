@@ -1,4 +1,4 @@
-baseURL: "https://www.coreywooten.com/"
+baseURL: "www.coreywooten.com"
 languageCode: "en-us"
 title: "Corey Wooten"
 theme: hugo-profile
@@ -61,7 +61,7 @@ Menus:
 params:
   title: "Corey Wooten"
   description: Text about my cool site  # The path to serve the static files from
-  favicon: ./images/circuit.svg
+  favicon: /images/circuit.svg
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -136,7 +136,7 @@ params:
     title: "I'm Corey."
     subtitle: "Strategic. Technical. Forward-thinking."
     content: "Tech-savvy builder and strategist blending engineering with creative problem-solving. I turn complex challenges into clean, scalable systems; always with an eye toward what’s next. Proven success launching scalable systems, optimizing operations, and leading global initiatives that bridge innovation with real-world impact."
-    image: ./images/corey-7sd.png
+    image: /images/corey-7sd.png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -158,7 +158,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "./images/me-2.png"
+    image: "/images/me-2.png"
     content: |-
       I’m a curious, solutions-first kind of person with a background in engineering, Web3, and digital systems. I’ve worked across startups and global teams, launching platforms, refining ops, and translating technical goals into real-world results. 
       
