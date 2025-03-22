@@ -1,4 +1,4 @@
-baseURL: "coreywooten.com"
+baseURL: "coreywooten.netlify.app"
 languageCode: "en-us"
 title: "Corey Wooten"
 theme: hugo-profile
