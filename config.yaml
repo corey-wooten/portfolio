@@ -360,7 +360,7 @@ params:
     items:
       - title: Portfolio Rebuild (You're Viewing It!)
         content: Rebuilt my professional portfolio from scratch using VS Code, GitHub, and Vercel; migrating from Wix to a custom Hugo static site.
-        image: /images/projects/portfolio.png
+        image: /images/blogs/portfolio.png
         featured:
           name: View Details
           link: /blogs/building-this-portfolio
