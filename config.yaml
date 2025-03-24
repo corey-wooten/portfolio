@@ -363,7 +363,7 @@ params:
         image: /images/blogs/portfolio.png
         featured:
           name: View Details
-          link: /blogs/my-portfolio
+          link: /blogs/portfolio-revamp
         badges:
           - "Hugo"
           - "VS Code"
