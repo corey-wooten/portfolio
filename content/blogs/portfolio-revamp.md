@@ -12,7 +12,7 @@ tags:
   - VS Code 
   - Vercel 
   - GitHub
-image: /images/blogs/portfolio.png
+image: /images/projects/portfolio.png
 description: "How I rebuilt my online portfolio from scratch using VS Code, GitHub, and Vercel."
 toc: false
 ---
