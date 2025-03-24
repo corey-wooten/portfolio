@@ -422,7 +422,9 @@ params:
       title: Recent Posts
       enable: true
       disableFeaturedImage: true
-    socialNetworks:
+    socialNetworks: 
+      github: "https://github.com/corey-wooten"
+      linkedin: "https://linkedin.com/in/coreywooten"
       
 
   # List pages like blogs and posts
