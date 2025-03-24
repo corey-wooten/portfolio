@@ -64,7 +64,8 @@ params:
   title: "Corey Wooten"
   description: Corey Wooten’s professional portfolio showcasing expertise in engineering, Web3, cybersecurity, and technical project management.  
   # staticPath: "" # The path to serve the static files from
-  favicon: /images/circuit.svg
+  favicon: /images/circuit.svg 
+  hostName: "https://coreywooten.com"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -285,27 +286,27 @@ params:
             
             **Acquired Skills**
             
-            Strategic and Analytical
+            Strategic and Analytical:
               - Business intelligence and data interpretation
               - Predictive modeling and Statistical Analysis (JMP Pro, Excel) 
               - Financial Modeling and valuation techniques (Excel) 
               - Strategic planning and performance measurement 
               - Legal and regulatory risk assessment 
             
-            Cybersecurity and Technical 
+            Cybersecurity and Technical:
               - Threat detection, logging, and monitoring (Microsoft Sentinel, Splunk) 
               - Network traffic analysis (TShark, Wireshark) 
               - Cybersecurity strategy development and governance 
               - Risk management and incident response frameworks 
               - Data privacy and compliance 
            
-            Data and Information Management 
+            Data and Information Management: 
               - Relational database design and querying (Microsoft Access) 
               - Data visualization and storytelling (Canva, Excel, PowerPoint)
               - Workflow documentation and process automation 
               - Cloud-based collaboration and file management (OneDrive, Teams) 
 
-            Cross-Functional Business Tools
+            Cross-Functional Business Tools:
               - CRM insights and customer segmentation 
               - Go-to-market planning and marketing analytics
               - Supply chain optics and operational decision-making 
@@ -356,23 +357,21 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Hugo Profile
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
-        image: /images/projects/profile.png
+      - title: Portfolio Rebuild (You're Viewing It!)
+        content: Rebuilt my professional portfolio from scratch using VS Code, GitHub, and Vercel; migrating from Wix to a custom Hugo static site.
+        image: /images/projects/portfolio.png
         featured:
-          name: Demo
-          link: https://hugo-profile.netlify.app
+          name: View Details
+          link: /blogs/building-this-portfolio
         badges:
           - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "VS Code"
+          - "GitHub" 
+          - "Vercel" 
+          - "CI/CD"
         links:
-          - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
-          - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+            url: https://www.github.com/corey-wooten/portfolio
 
       - title: Image Converter
         content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
