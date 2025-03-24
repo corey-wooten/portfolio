@@ -1,4 +1,4 @@
-baseURL: "https://coreywooten.com"
+baseURL: "https://coreywooten.com/"
 languageCode: "en-us"
 title: "Corey Wooten"
 theme: hugo-profile 
@@ -143,7 +143,7 @@ params:
     image: /images/corey-7sd.png
     bottomImage:
       enable: true
-    # roundImage: true # Make hero image circular | default false
+      roundImage: true # Make hero image circular | default false
     button:
       enable: false
       name: "Resume"
@@ -360,7 +360,7 @@ params:
     items:
       - title: Portfolio Revamp (2025)
         content: Rebuilt my professional portfolio from scratch using VS Code, GitHub, and Vercel; migrating from Wix to a custom Hugo static site.
-        image: images/projects/portfolio.png
+        image: /images/projects/portfolio-l.jpeg
         featured:
           name: View Details
           link: /blogs/portfolio-revamp/
