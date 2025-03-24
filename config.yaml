@@ -360,7 +360,7 @@ params:
     items:
       - title: Portfolio Revamp (2025)
         content: Rebuilt my professional portfolio from scratch using VS Code, GitHub, and Vercel; migrating from Wix to a custom Hugo static site.
-        image: /images/projects/portfolio.png
+        image: images/projects/portfolio.png
         featured:
           name: View Details
           link: /blogs/portfolio-revamp/
