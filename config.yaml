@@ -33,10 +33,10 @@ markup:
 Menus:
   main:
     - identifier: blog
-      name: Blog
-      title: Blog posts
+    #  name: Blog
+    #  title: Blog posts
       url: /blogs
-      weight: 1
+    # weight: 1
   #  - identifier: gallery
     #  name: Gallery
     #  title: Blog posts
@@ -138,7 +138,7 @@ params:
     enable: true
     intro: "Hello,"
     title: "I'm Corey."
-    subtitle: "Strategic. Technical. Forward-thinking."
+    subtitle: "Strategic. Technical. Forward-thinking. ⚡️"
     content: "Tech-savvy builder and strategist blending engineering with creative problem-solving. I turn complex challenges into clean, scalable systems; always with an eye toward what’s next. Proven success launching scalable systems, optimizing operations, and leading global initiatives that bridge innovation with real-world impact."
     image: /images/corey-7sd.png
     bottomImage:
@@ -161,7 +161,7 @@ params:
   # About
   about:
     enable: true
-    title: "About Me"
+    title: "💡 About Me"
     image: "/images/me-2.png"
     content: |-
       I’m a curious, solutions-first kind of person with a background in engineering, Web3, and digital systems. I’ve worked across startups and global teams, launching platforms, refining ops, and translating technical goals into real-world results. 
@@ -186,7 +186,7 @@ params:
   # Experience
   experience:
     enable: true
-    # title: "Custom Name"
+    title: "📌 Experience"
     items:
       - job: "Certified Personal Trainer and Nutrition Coach"
         company: "ClubFitness"
@@ -272,7 +272,7 @@ params:
   # Education
   education:
     enable: true
-    # title: "Custom Name"
+    title: "📚 Education"
     index: false
     items:
       - title: "Master of Business Administration (MBA)"
@@ -333,7 +333,7 @@ params:
   # Achievements
   achievements:
     enable: true
-    # title: "Custom Name"
+    title: "🏆 Achievements"
     items:
       - title: AWS Cloud for Technical Professionals
         content: Trailhead by Salesforce
@@ -355,7 +355,7 @@ params:
   # projects
   projects:
     enable: true
-    # title: "Custom Name"
+    title: "🛠️ Projects"
     items:
       - title: Portfolio Rebuild (You're Viewing It!)
         content: Rebuilt my professional portfolio from scratch using VS Code, GitHub, and Vercel; migrating from Wix to a custom Hugo static site.
@@ -403,9 +403,9 @@ params:
   #Contact
   contact:
     enable: true
-    # title: "Custom Name"
-    content: 
-    btnName: Email Me
+    title: "📥 Let's Connect"
+    content: Click the button below to send me an email and I'll get back to you as soon as possible.
+    btnName: Get in Touch
     btnLink: mailto:corey@coreywooten.com
     # formspree:
     #   enable: true # `contact.email` value will be ignored
