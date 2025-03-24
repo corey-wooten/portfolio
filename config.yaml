@@ -173,6 +173,7 @@ params:
       enable: true
       title: "Here are a few technologies I've worked with:"
       items:
+        - "Atlassian (Confluence, Jira, Trello)"
         - "AWS & Azure"
         - "Blockchain (RPC, APIs)"
         - "Git & Github"
@@ -189,20 +190,20 @@ params:
       - job: "Certified Personal Trainer and Nutrition Coach"
         company: "ClubFitness"
         companyUrl: "https://clubfitnessgso.com"
-        date: "2024 - Present"
+        date: "Jul 2024 - Present"
         featuredLink:
           enable: false
           name: "View the project"
           url: "https://example.com"
         content: |-
-          - Designed and delivered 50+ personalized fitness plans by leveraging data from Trainerize and MyFitnessPal to segment clients and improve program outcomes.
-          - Used performance analytics to iterate on goal-driven strategies, increasing retention by 25% and driving a 90% success rate. 
-          - Applied agile thinking and user-centric design to optimize training for clients with diverse needs, managing multiple cases independently while scaling customer success practices.
+          - Managed a portfolio of 20+ clients with Trainerize, applying cloud-based program design, real-time performance tracking, and asynchronous communication channels to personalize fitness plans and monitor progress data.
+          - Scaled client acquisition to 50+ within six (6) months through targeted outreach, data-driven programming, and personalized onboarding workflows that prioritized long-term adherence and measurable outcomes.
+          - Developed adaptive fitness solutions for clients aged 16-84, integrating biometric feedback and mobility assessments; notably improved an elderly client's mobility to eliminate reliance on assisted walking devices.
 
       - job: "Professional Development and Career Transition"
-        company: "Self-Directed"
-        companyUrl: "https://coreywooten.com"
-        date: "2023 - 2024"
+        company: "Career Break"
+        companyUrl: null
+        date: "Oct 2023 - Jul 2024"
         featuredLink:
           enable: false
           name: "View the project"
@@ -210,77 +211,62 @@ params:
         content: |-
           - Completed an MBA concentrated in Cybersecurity while earning certifications in Personal Training, Nutrition Coaching, and CPR/First Aid, blending leadership, wellness, and technical growth.
           - Led freelance web design projects that strengthened creative problem-solving, client communication, and technical execution. 
-          - Reinvested in long-term career goals by exploring roles across tech, engineering, and human development, enhancing adaptability and strategic thinking.
-
+          - Reinvested in long-term career goals by exploring roles across tech, engineering, and themed entertainment, enhancing adaptability and strategic thinking.
 
       - job: "Evolving Roles"
         company: "Ankr"
         companyUrl: "https://ankr.com"
-        date: "2021 - 2023"
+        date: "Dec 2021 - Oct 2023"
+        featuredLink:
+          enable: true
+          name: "View Deliverable"
+          url: "http://status.ankr.com"
+        content: |-
+          Lead Product Success Engineer (Jul 2022 - Oct 2023)
+          - Developed and launched a real-time Grafana dashboard to monitor 40+ blockchain RPC networks, boosting infrastructure reliability and visibility. 
+          - Drove a 95%+ customer satisfaction rate by optimizing technical documentation and support systems, enabling efficient resolution of complex issues. 
+          - Acted as a strategic liaison between Sales, Product, and DevOps, guiding the development of Web3 solutions for 10+ emerging blockchain companies.
+          
+          Technical Program Manager (Dec 2021 - Jul 2022)
+          - Streamlined the documentation pipeline by integrating GitHub Pull Request workflows with Visual Studio Code, cutting review and deployment time by 35%. 
+          - Increased user engagement by 20% through strategic content enhancements and technical education initiatives. 
+          - Produced a series of educational Web3 videos to drive awareness around digital wallets, decentralized gaming, and emerging blockchain technologies.
+
+      - job: "Evolving Roles"
+        company: "GPX Intelligence"
+        companyUrl: "https://gpx.co"
+        date: "Feb 2020 - Nov 2021"
         featuredLink:
           enable: false
           name: "View the project"
           url: "https://example.com"
         content: |-
-          Lead Product Success Engineer (2022 - 2023)
-          - Developed and launched a real-time Grafana dashboard to monitor 40+ blockchain RPC networks, boosting infrastructure reliability and visibility. 
-          - Drove a 95%+ customer satisfaction rate by optimizing technical documentation and support systems, enabling efficient resolution of complex issues. 
-          - Acted as a strategic liaison between Sales, Product, and DevOps, guiding the development of Web3 solutions for 10+ emerging blockchain companies.
+        
+          Records Manager (Feb 2021 - Nov 2021)
+          - Built and implemented the company's first integrated legal inquiry database, reducing claim response times by roughly 36 hours. 
+          - Handled ethical data collection and reporting for multiple claims each week for law enforcement, attornies, and government agencies.
+         
+          RMA Coordinator (May 2020 - Feb 2021)
+          - Managed and processed 25+ daily returns in WooCommerce, issuing refunds, refurbishing, and restocking devices to maintain quality control. 
+          - Developed a standardized RMA process using automations and platform integrations, curring return handling time by over 10 hours.  
+
+          IoT Customer Success and Product Specialist (Feb 2020 - Nov 2021)
+          - Diagnosed and resolved technical issues for 50+ GPS-enabled devices daily using IoT platforms (Hologram, Twilio, AT&T, Verizon). 
+          - Crafted 100+ Zendesk macros with Liquid Markup, reducing support response times by six (6) hours wihtin one (1) month. 
           
-          Technical Program Manager (2021 - 2022)
-          - Streamlined the documentation pipeline by integrating GitHub Pull Request workflows with Visual Studio Code, cutting review and deployment time by 35%. 
-          - Increased user engagement by 20% through strategic content enhancements and technical education initiatives. 
-          - Produced a series of educational Web3 videos to drive awareness around digital wallets, decentralized gaming, and emerging blockchain technologies.
-
-      - job: "Technical Program Manager"
-        company: "Ankr"
-        companyUrl: "https://ankr.com"
-        date: "2021 - 2022"
-        featuredLink:
-          enable: false
-          url: "https://example.com"
-        info:
-          enable: false
-          content: I worked as a software developer for more than one year in Amazon.
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "Junior Software Developer"
-        company: "Apple"
-        companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
+      - job: "Founder and CEO"
+        company: "Mind Body Muscle"
+        companyUrl: "https://corey-wooten.wixsite.com/website"
+        date: "Feb 2017 - Mar 2020"
         info:
           enable: false
         featuredLink:
           enable: false
           url: "https://example.com"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "UI/UX Designer"
-        company: "Netflix"
-        companyUrl: "https://example.com"
-        date: "June 2017 - Nov 2019"
-        featuredLink:
-          enable: false
-          url: "https://example.com"
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+          - Founded a direct-to-consumer fitness brand and launched two physical products via Shopify and Amazon FBA, scaling to $15.5K in quarterly sales and increasing revenue by 35% over two (2) quarters.
+          - Engineered SEO-optimized marketing funnels and analytics-backed campaigns, increasing site traffic by 40% and improving conversion rates through targeted keyword strategies and customer behavior tracking.
+          - Orchestrated end-to-end global supply chain operations, coordinating with international vendors to import 1,000+ units per batch while ensuring compliance with customs and logistics regulations.
 
   # Education
   education:
@@ -288,41 +274,59 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: "Master of Business Administration (MBA)"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
+          name: "University of North Carolina at Wilmington"
+          url: "https://uncw.edu"
+        date: " "
+        GPA: "3.83 out of 4.00"
         content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
-        school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
-        content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
+            *Cybersecurity Concentration*
+            
+            **Acquired Skills**
+            
+            Strategic and Analytical
+              - Business intelligence and data interpretation
+              - Predictive modeling and Statistical Analysis (JMP Pro, Excel) 
+              - Financial Modeling and valuation techniques (Excel) 
+              - Strategic planning and performance measurement 
+              - Legal and regulatory risk assessment 
+            
+            Cybersecurity and Technical 
+              - Threat detection, logging, and monitoring (Microsoft Sentinel, Splunk) 
+              - Network traffic analysis (TShark, Wireshark) 
+              - Cybersecurity strategy development and governance 
+              - Risk management and incident response frameworks 
+              - Data privacy and compliance 
+           
+            Data and Information Management 
+              - Relational database design and querying (Microsoft Access) 
+              - Data visualization and storytelling (Canva, Excel, PowerPoint)
+              - Workflow documentation and process automation 
+              - Cloud-based collaboration and file management (OneDrive, Teams) 
 
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-        featuredLink:
-          enable: true
-          name: "My academic record"
-          url: "https://example.com"
-      - title: "High School"
+            Cross-Functional Business Tools
+              - CRM insights and customer segmentation 
+              - Go-to-market planning and marketing analytics
+              - Supply chain optics and operational decision-making 
+              - Public speaking and executive-level presentations (PowerPoint, YouTube)
+           
+      - title: "Bachelor of Science (BS) in Computer Systems Technology"
         school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
+          name: "North Carolina A&T State University"
+          url: "https://ncat.edu"
+        date: " "
+        GPA: "3.75 out of 4.00"
+        content: |-
+          **Activities and Accomplishments**
+            - Magna Cum Laude Honors
+            - NCAT Electronics Club 
+            - UNCF HBCU Innovation Summit 
+            - CIEE: Business and Culture Shanghai (Study Abroad)
+
         featuredLink:
-          enable: true
+          enable: false
+          name: "My academic record"
           url: "https://example.com"
 
   # Achievements
@@ -330,9 +334,9 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Google kickstart runner
-        content: I solved all problems with optimal solution.
-        url: https://example.com
+      - title: AWS Cloud for Technical Professionals
+        content: Trailhead by Salesforce
+        url: https://salesforce.com/trailblazer/coreywooten
         image: /images/achievement.jpg
       - title: Facebook Hackathon Winner
         content: Developed a product using Artificial Intelligence.
