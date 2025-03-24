@@ -219,7 +219,7 @@ params:
         companyUrl: "https://ankr.com"
         date: "Dec 2021 - Oct 2023"
         featuredLink:
-          enable: true
+          enable: false
           name: "View Deliverable"
           url: "http://status.ankr.com"
         content: |-
@@ -358,12 +358,12 @@ params:
     enable: true
     title: "🛠️ Projects"
     items:
-      - title: Portfolio Rebuild (You're Viewing It!)
+      - title: Portfolio Revamp (2025)
         content: Rebuilt my professional portfolio from scratch using VS Code, GitHub, and Vercel; migrating from Wix to a custom Hugo static site.
         image: /images/blogs/portfolio.png
         featured:
           name: View Details
-          link: /blogs/building-this-portfolio
+          link: /blogs/my-portfolio
         badges:
           - "Hugo"
           - "VS Code"
