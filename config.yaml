@@ -130,7 +130,7 @@ params:
       disableExperience: false
       disableEducation: false
       disableProjects: false
-      disableAchievements: false
+      disableAchievements: true
       disableContact: false
 
   # Hero
@@ -224,12 +224,13 @@ params:
           url: "http://status.ankr.com"
         content: |-
           
-            ###### Lead Product Success Engineer (Jul 2022 - Oct 2023)
+            ##### Lead Product Success Engineer (Jul 2022 - Oct 2023)
             - Developed and launched a real-time Grafana dashboard to monitor 40+ blockchain RPC networks, boosting infrastructure reliability and visibility. 
             - Drove a 95%+ customer satisfaction rate by optimizing technical documentation and support systems, enabling efficient resolution of complex issues. 
             - Acted as a strategic liaison between Sales, Product, and DevOps, guiding the development of Web3 solutions for 10+ emerging blockchain companies.
-          
-            ###### Technical Program Manager (Dec 2021 - Jul 2022)
+            ###### 🔗  **[View Deliverable](https://status.ankr.com)** 
+
+            ##### Technical Program Manager (Dec 2021 - Jul 2022)
             - Streamlined the documentation pipeline by integrating GitHub Pull Request workflows with Visual Studio Code, cutting review and deployment time by 35%. 
             - Increased user engagement by 20% through strategic content enhancements and technical education initiatives. 
             - Produced a series of educational Web3 videos to drive awareness around digital wallets, decentralized gaming, and emerging blockchain technologies.
@@ -333,13 +334,13 @@ params:
 
   # Achievements
   achievements:
-    enable: true
+    enable: false
     title: "🏆 Achievements"
     items:
       - title: AWS Cloud for Technical Professionals
         content: Trailhead by Salesforce
         url: https://salesforce.com/trailblazer/coreywooten
-        image: /images/achievement.jpg
+        image: /images/aws-cloud.jpeg
       - title: Facebook Hackathon Winner
         content: Developed a product using Artificial Intelligence.
         image: /images/achievement.jpg
@@ -359,8 +360,8 @@ params:
     title: "🛠️ Projects"
     items:
       - title: Portfolio Revamp (2025)
-        content: Rebuilt my professional portfolio from scratch using VS Code, GitHub, and Vercel; migrating from Wix to a custom Hugo static site.
-        image: /images/projects/portfolio-l.jpeg
+        content: See how I rebuilt my professional portfolio from scratch using VS Code, GitHub, and Vercel; migrating from Wix to a custom Hugo static site.
+        image: /images/projects/portfolio_650x375.png
         featured:
           name: View Details
           link: /blogs/portfolio-revamp/
@@ -374,32 +375,54 @@ params:
           - icon: fab fa-github
             url: https://www.github.com/corey-wooten/portfolio
 
-      - title: Image Converter
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-        image: /images/projects/converter.jpg
+      - title: Elevating Entertainment; A Strategic Blueprint of Six Flags Entertainment Corporation (2024)
+        content: A concise video analysis of Six Flags’ strategic direction, highlighting its 2024 merger with Cedar Fair and use of frameworks like Porter’s Five Forces and the VRIO model to drive growth and differentiation.
+        image: /images/projects/ee_650x375.png
         featured:
-          name: Demo
-          link: https://django-converter.herokuapp.com
+          name: View Details
+          link: /blogs/elevating-entertainment/
         badges:
-          - "Django"
-          - "Bootstrap"
+          - "Strategic Management"
+          - "Business Strategy" 
+          - "Mergers and Acquisitions" 
+          - "YouTube" 
+          - "PowerPoint"
         links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+          - icon: fab fa-youtube
+            url: https://www.youtube.com/watch?v=Je68lI3zDRU
 
-      - title: Hugo Profile V2
-        content: A clean and simple Hugo template for personal portfolio and blog.
-        image: /images/projects/profile2.jpg
+      - title: Logging Network Activity with Packet Tracer (2024)
+        content: Used Cisco Packet Tracer to simulate FTP and ICMP traffic, analyze plaintext vulnerabilities, and capture syslog events in a virtual network lab.
+        image: /images/projects/packet_650x375.png
         featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
+          name: View Details
+          link: /blogs/packet-tracer/
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+          - "Network Logging"
+          - "Cisco Packet Tracer"
+          - "Syslog"
+          - "Cybersecurity"
+          - "FTP Analysis"
+        # links:
+          # - icon: fab fa-github
+          #  url: 
+
+      - title: Ankr Status Hub (2023)
+        content: Engineered and deployed a Grafana dashboard to monitor 40+ blockchain RPC networks in real time, powering Ankr’s public-facing status page and enhancing network transparency.
+        image: /images/projects/status_650x375.png
+        featured:
+          name: View Details
+          link: /blogs/ankr-status-hub/
+        badges:
+          - "Grafana"
+          - "Atlassian Statuspage"
+          - "Make.com"
+          - "PromQL"
+          - "DevOps"
+        # links:
+         # - icon: fab fa-ankr
+         # - url: http://status.ankr.com/    
+
 
   #Contact
   contact:
@@ -420,7 +443,7 @@ params:
       path: "blogs"
       count: 3
       title: Recent Posts
-      enable: true
+      enable: false
       disableFeaturedImage: true
     socialNetworks: 
       github: "https://github.com/corey-wooten"
