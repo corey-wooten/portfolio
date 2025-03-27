@@ -174,12 +174,13 @@ params:
       enable: true
       title: "Here are a few technologies I've worked with:"
       items:
-        - "Atlassian (Confluence, Jira, Trello)"
+        - "Atlassian Software"
+        - "AI / ML"
         - "AWS & Azure"
-        - "Blockchain (RPC, APIs)"
+        - "Blockchain / Web3"
         - "Git & Github"
         - "Grafana & Splunk"
-        - "HTML/CSS"
+        - "HTML / CSS"
         - "SQL"
         - "Tableau"
 
@@ -270,7 +271,7 @@ params:
           - Founded a direct-to-consumer fitness brand and launched two physical products via Shopify and Amazon FBA, scaling to $15.5K in quarterly sales and increasing revenue by 35% over two (2) quarters.
           - Engineered SEO-optimized marketing funnels and analytics-backed campaigns, increasing site traffic by 40% and improving conversion rates through targeted keyword strategies and customer behavior tracking.
           - Orchestrated end-to-end global supply chain operations, coordinating with international vendors to import 1,000+ units per batch while ensuring compliance with customs and logistics regulations.
-
+  
   # Education
   education:
     enable: true
@@ -331,7 +332,19 @@ params:
           enable: false
           name: "My academic record"
           url: "https://example.com"
-
+  
+   # Professional Development
+  profDev:
+  enable: true
+  title: "📈 Professional Development"
+  items:
+    - role: "Certified Personal Trainer"
+      organization: "ClubFitness"
+      organizationUrl: "https://clubfitnessgso.com"
+      date: "Jul 2024 – Present"
+      content: |-
+        - Managed a portfolio of 20+ clients with Trainerize...
+  
   # Achievements
   achievements:
     enable: false
@@ -419,6 +432,22 @@ params:
           - "Make.com"
           - "PromQL"
           - "DevOps"
+        # links:
+         # - icon: fab fa-ankr
+         # - url: http://status.ankr.com/  
+
+      - title: BSC Node Deployment with Erigon (2023)
+        content: A tutorial demonstrating the process of connecting to a remote server running Linux Ubuntu, setting up and running a full node on Binance Smart Chain using the Erigon client. 
+        image: /images/projects/bsc-erigon.png
+        featured:
+          name: View Details
+          link: /blogs/bsc-erigon/
+        badges:
+          - "Blockchain"
+          - "Node Deployment"
+          - "Linux Administration"
+          - "DevOps"
+          - "GoLang"
         # links:
          # - icon: fab fa-ankr
          # - url: http://status.ankr.com/    
