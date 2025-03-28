@@ -22,7 +22,7 @@
                 <div class="sticky-sidebar">
                     <aside class="aboutImg">
                         <div class="text-center">
-                            <img src="{{ .Params.image }}" class="img-fluid mx-auto rounded" alt="">
+                            <img src="{{ .Site.BaseURL }}{{ .Params.image }}" class="img-fluid mx-auto rounded d-block" style="max-width: 100%; height: auto;" alt="About Me">
                         </div>
                         <h2 class="text-center pt-3">
                             {{ .Params.name }}
