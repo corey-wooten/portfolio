@@ -281,7 +281,7 @@ params:
   # Education
   education:
     enable: true
-    title: "📚 Education"
+    title: "🎓 Education"
     index: false
     items:
       - title: "Master of Business Administration (MBA)"
