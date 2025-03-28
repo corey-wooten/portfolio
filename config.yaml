@@ -163,12 +163,17 @@ params:
     enable: true
     title: "💡 About Me"
     image: "/images/me-2.png"
-    content: |-
-      I’m a curious, solutions-first kind of person with a background in engineering, Web3, and digital systems. I’ve worked across startups and global teams, launching platforms, refining ops, and translating technical goals into real-world results. 
+    content: |- 
+
+       <p class="d-block d-lg-none text-center">
+       <img src="/images/me-2.png" alt="Corey Wooten" class="img-fluid rounded-circle" style="max-width: 75%;" />
+       </p>
+
+       I’m a curious, solutions-first kind of person with a background in engineering, Web3, and digital systems. I’ve worked across startups and global teams, launching platforms, refining ops, and translating technical goals into real-world results. 
       
-      I enjoy building things that actually work and making the process smoother for everyone involved. Whether it’s designing solutions, leading projects, or breaking down complex ideas, I bring both strategy and execution to the table. 
+       I enjoy building things that actually work and making the process smoother for everyone involved. Whether it’s designing solutions, leading projects, or breaking down complex ideas, I bring both strategy and execution to the table. 
       
-      I hold a Bachelor's degree in Computer Systems Technology and an MBA conecentrated in Cybersecurity. Further, I’m focused on leading innovative, future-ready teams. If it involves innovation, collaboration, and strategic thinking, I’m all in.
+       I hold a Bachelor's degree in Computer Systems Technology and an MBA conecentrated in Cybersecurity. Further, I’m focused on leading innovative, future-ready teams. If it involves innovation, collaboration, and strategic thinking, I’m all in.
 
     skills:
       enable: true
