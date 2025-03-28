@@ -423,23 +423,7 @@ params:
           - "DevOps"
         # links:
          # - icon: fab fa-ankr
-         # - url: http://status.ankr.com/  
-
-      - title: BSC Node Deployment with Erigon [Draft] (2023)
-        content: A step-by-step guide to deploying a full Binance Smart Chain node using the Erigon client on a remote Linux server. 
-        image: /images/projects/misc/bsc-erigon.png
-        featured:
-          name: View Details
-          link: /blogs/bsc-erigon/
-        badges:
-          - "Blockchain"
-          - "Node Deployment"
-          - "Linux Server"
-          - "DevOps"
-          - "BNB Chain"
-        # links:
-         # - icon: fab fa-ankr
-         # - url: http://status.ankr.com/  
+         # - url: http://status.ankr.com/   
 
       - title: Launching Cardano (ADA) Relay Nodes from a Remote Server (2021)
         content: A step-by-step tutorial for launching a passive Cardano (ADA) relay node using Ubuntu Server and open-source tooling.
