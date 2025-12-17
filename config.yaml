@@ -139,7 +139,7 @@ params:
     intro: "Greetings,"
     title: "I'm Corey."
     subtitle: "Builder. Leader. Innovator. ⚡️"
-    content: "I build and support technical systems that hold up under real-world pressure, not just on paper. With experience across engineering, infrastructure, SaaS, and analytics environments, I translate complex technical data into clear, actionable decisions. I am known for disciplined planning, precise execution, and steady leadership in high-stakes situations. <br><br> Outside of tech, I'm a Certified Personal Trainer (CPT) and Nutrition Coach (CNC), bringing a structured, results-driven mindset focused on consistency, progress, and growth. My work sits at the intersection of technology, strategy, and people, where reliable systems and aligned teams drive meaningful outcomes."
+    content: "Experienced technical professional and forward thinker specializing in cloud infrastructure, emerging technologies, and cybersecurity. I design scalable, user-centric solutions that drive business growth and operational excellence."
     image: /images/corey-7sd.png
     bottomImage:
       enable: true
@@ -348,22 +348,18 @@ params:
     enable: true
     title: "🏆 Credentials"
     items:
-      - title: Certified Funded Trader (TopStep)
-        content: Achieved Certified Funded Trader status with Topstep, demonstrating mastery of risk management, data-driven decision making, trade execution discipline, emotional control under pressure, and performance accountability within a rules-based, high-stakes environment.
-        url: https://trm-topstep-assets.s3.amazonaws.com/certificatepdfs/c7f20a9b-8fc4-4c49-988c-ed63f21b7177.pdf
+      - title: Certified Funded Trader – TopStep
+        content: Demonstrated mastery of risk management, data-driven decision making, trade execution discipline, emotional control under pressure, and performance accountability within a rules-based, high-stakes environment.
         image: /images/achievements/topstep/fundedtrader.png
-      - title: Facebook Hackathon Winner
-        content: Developed a product using Artificial Intelligence.
+
+      - title: AWS Cloud for Technical Professionals – Salesforce
+        content: Gained hands-on experience designing, securing, and optimizing cloud-native solutions on AWS across compute, networking, storage, databases, and monitoring.
+        image: /images/achievements/aws/aws.png 
+
+      - title: On the way!
+        content: More credentials coming soon.
         image: 
-      - title: Hugo Profile
-        content: Developed a theme and getting 1K+ downloads per month.
-        url: "https://github.com/gurusabarish/hugo-profile"
-        image: 
-      - title: Microsoft Imagine Runner
-        content: We are developed a product which can help others.
-      - title: Google Summer of Code
-        content: Contributed to a open source project.
-        url: https://example.com
+
 
   # projects
   projects:
