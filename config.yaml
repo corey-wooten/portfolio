@@ -206,7 +206,7 @@ params:
       - job: "Certified Personal Trainer, Nutrition Coach, Group Fitness Instructor"
         company: "ClubFitness"
         companyUrl: "https://clubfitnessgso.com"
-        date: "June 2024 – Current"
+        date: "June 2024 to Current"
         featuredLink:
           enable: false
           name: "View the project"
@@ -226,14 +226,14 @@ params:
       - job: "Evolving Roles"
         company: "Ankr"
         companyUrl: "https://ankr.com"
-        date: "December 2021 – October 2023"
+        date: "December 2021 to October 2023"
         featuredLink:
           enable: false
           name: "View Deliverable"
           url: "http://status.ankr.com"
         content: |-
           
-            ##### Technical Account Manager (07/2022 – 10/2023)
+            ##### Technical Account Manager (07/2022 to 10/2023)
             - Engineered and deployed a real-time Grafana dashboard to monitor 40+ blockchain RPC networks, boosting infrastructure reliability and visibility. 
             - Drove a 95%+ customer satisfaction rate by optimizing technical documentation and support systems, enabling efficient resolution of complex issues. 
             - Acted as a strategic liaison between Sales, Product, and DevOps, guiding the development of Web3 solutions for 10+ emerging blockchain companies.
@@ -245,7 +245,7 @@ params:
             - Data-Driven Decision Making 
             - Technical Communication 
 
-            ##### Technical Program Manager, Product Docs and Digital Media (12/2021 - 07/2022)
+            ##### Technical Program Manager, Product Docs and Digital Media (12/2021 to 07/2022)
             - Streamlined the documentation pipeline by integrating GitHub Pull Request workflows with Visual Studio Code, cutting review and deployment time by 35%. 
             - Increased user engagement by 20% through strategic content enhancements and technical education initiatives. 
             - Produced a series of educational Web3 videos to drive awareness around digital wallets, decentralized gaming, and emerging blockchain technologies.
@@ -253,18 +253,18 @@ params:
       - job: "Evolving Roles"
         company: "GPX Intelligence"
         companyUrl: "https://gpx.co"
-        date: "February 2020 - November 2021"
+        date: "February 2020 to November 2021"
         featuredLink:
           enable: false
           name: "View the project"
           url: "https://example.com"
         content: |-
         
-            Legal Compliance Manager (02/2021 - 11/2021)
+            Legal Compliance Manager (02/2021 to 11/2021)
             - Built and implemented the company's first integrated legal inquiry database, reducing claim response times by roughly 36 hours. 
             - Handled ethical data collection and reporting for multiple claims each week for law enforcement, attornies, and government agencies.
          
-            Returns Coordinator (05/2020 - 02/2021)
+            Returns Coordinator (05/2020 to 02/2021)
             - Managed and processed 25+ daily returns in WooCommerce, issuing refunds, refurbishing, and restocking devices to maintain quality control. 
             - Developed a standardized RMA process using automations and platform integrations, curring return handling time by over 10 hours.  
 
@@ -275,7 +275,7 @@ params:
       - job: "Owner and Founder"
         company: "Mind Body Muscle"
         companyUrl: "https://corey-wooten.wixsite.com/website"
-        date: "Feb 2017 - Mar 2020"
+        date: "February 2017 to March 2020"
         info:
           enable: false
         featuredLink:
