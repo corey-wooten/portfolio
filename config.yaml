@@ -186,7 +186,7 @@ params:
         - "Cybersecurity Fundamentals <br> (NIST, CIS Controls)"
         - "DevOps Automation <br> (CI/CD, Grafana, Prometheus)"
         - "Distributed Systems <br> (IoT)"
-        - "E-Commerce"
+        - "eCommerce"
         - "Customer Support <br> (Zendesk, Jira)"
         - "Technical Documentation"
         - "Program/Project Management"
@@ -204,7 +204,7 @@ params:
     enable: true
     title: "💼 Experience"
     items:
-      - job: "E-Commerce Store Manager (Amazon, eBay, Shopify, Mercari)"
+      - job: "eCommerce Store Manager (Amazon, eBay, Shopify, Mercari)"
         company: "Independent"
         companyUrl: " "
         date: "Full-Time July 2014 to January 2017 | Part-Time/Independent Thereafter"
