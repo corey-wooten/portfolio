@@ -186,6 +186,7 @@ params:
         - "Cybersecurity Fundamentals <br> (NIST, CIS Controls)"
         - "DevOps Automation <br> (CI/CD, Grafana, Prometheus)"
         - "Distributed Systems <br> (IoT)"
+        - "E-Commerce"
         - "Customer Support <br> (Zendesk, Jira)"
         - "Technical Documentation"
         - "Program/Project Management"
@@ -203,6 +204,26 @@ params:
     enable: true
     title: "💼 Experience"
     items:
+      - job: "E-Commerce Store Manager (Amazon, eBay, Shopify, Mercari)"
+        company: "Independent"
+        companyUrl: " "
+        date: "Full-Time July 2014 to January 2017 | Part-Time/Independent Thereafter"
+        featuredLink:
+          enable: false
+          name: "View the project"
+          url: "https://example.com"
+        content: |-
+         - Managed multi-channel eCommerce operations across Amazon, eBay, Shopify, and Mercari, maintaining a 100% positive seller rating for eleven consecutive years.
+         - Oversaw end-to-end order fulfillment and inventory management, processing 50+ weekly orders and tracking ~$10K+ in inventory using a custom Airtable database. 
+         - Created and optimized 50-100 product listings daily, driving visibility and sales across diverse consumer and collectible categories.
+          
+          _Acquired Skills:_
+          - _Operations Management_
+          - _Inventory Management_ 
+          - _Supply Chain Logistics_ 
+          - _Customer Satisfaction_ 
+          - _Data Organization_
+
       - job: "Certified Personal Trainer, Nutrition Coach, Group Fitness Instructor"
         company: "ClubFitness"
         companyUrl: "https://clubfitnessgso.com"
