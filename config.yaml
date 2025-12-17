@@ -201,7 +201,7 @@ params:
   # Experience
   experience:
     enable: true
-    title: "💼 Work History"
+    title: "💼 Experience"
     items:
       - job: "Certified Personal Trainer, Nutrition Coach, Group Fitness Instructor"
         company: "ClubFitness"
@@ -349,8 +349,8 @@ params:
     enable: true
     title: "🛠️ Projects and Credentials"
     items:
-      - title: Portfolio Revamp (2025)
-        content: See how I rebuilt my professional portfolio from scratch using VS Code, GitHub, and Vercel; migrating from Wix to a custom Hugo static site.
+      - title: Portfolio Revamp
+        content: An overview of how I rebuilt my professional portfolio from scratch using VS Code, GitHub, and Vercel; migrating from Wix to a custom Hugo static site.
         image: /images/projects/misc/portfolio_650x375.png
         featured:
           name: View Details
@@ -365,7 +365,7 @@ params:
           - icon: fab fa-github
             url: https://www.github.com/corey-wooten/portfolio
 
-      - title: Elevating Entertainment; A Strategic Blueprint of Six Flags Entertainment Corporation (2024)
+      - title: Elevating Entertainment; A Strategic Blueprint of Six Flags Entertainment Corporation
         content: A concise video analysis of Six Flags’ strategic direction, highlighting its 2024 merger with Cedar Fair and use of frameworks like Porter’s Five Forces and the VRIO model to drive growth and differentiation.
         image: /images/projects/misc/ee_650x375.png
         featured:
@@ -381,8 +381,8 @@ params:
           - icon: fab fa-youtube
             url: https://www.youtube.com/watch?v=Je68lI3zDRU
 
-      - title: Logging Network Activity with Packet Tracer (2024)
-        content: Used Cisco Packet Tracer to simulate FTP and ICMP traffic, analyze plaintext vulnerabilities, and capture syslog events in a virtual network lab.
+      - title: Logging Network Activity with Packet Tracer
+        content: A graduate school project using Cisco Packet Tracer to simulate FTP and ICMP traffic, analyze plaintext vulnerabilities, and capture syslog events in a virtual network lab.
         image: /images/projects/misc/packet_650x375.png
         featured:
           name: View Details
@@ -397,8 +397,8 @@ params:
           # - icon: fab fa-github
           #  url: 
 
-      - title: Ankr Status Hub (2023)
-        content: Engineered and deployed a Grafana dashboard to monitor 40+ blockchain RPC networks in real time, powering Ankr’s public-facing status page and enhancing network transparency.
+      - title: Blockchain RPC Monitoring Dashboard
+        content: A Grafana dashboard built to monitor 40+ blockchain RPC networks in real time, powering a public-facing status page and enhancing network transparency.
         image: /images/projects/misc/status_650x375.png
         featured:
           name: View Details
@@ -413,12 +413,12 @@ params:
          # - icon: fab fa-ankr
          # - url: http://status.ankr.com/   
 
-      - title: Launching Cardano (ADA) Relay Nodes from a Remote Server (2021)
+      - title: Launching Cardano (ADA) Relay Nodes from a Remote Server
         content: A step-by-step tutorial for launching a passive Cardano (ADA) relay node using Ubuntu Server and open-source tooling.
         image: /images/projects/cardano/cardano.png
         featured:
           name: View Details
-          link: /blogs/cardano-node-tutorial/
+          link: https://corey-wooten.wixsite.com/coreywooten/post/launching-cardano-nodes-from-a-remote-server
         badges:
         - "Blockchain"
         - "Node Deployment"
@@ -426,7 +426,7 @@ params:
         - "Cardano"
         - "DevOps"
 
-      - title: ETHR*ENRG – Smart Solar Project Kits (2019)
+      - title: ETHR*ENRG – Smart Solar Project Kits
         content: A hands-on educational initiative focused on clean energy, featuring a series of DIY Smart Solar Kits with visual instructions tailored to youth and young adults.
         image: /images/projects/ether-energy/ee-logo-new.png
         featured:
@@ -442,12 +442,12 @@ params:
           - icon: fab fa-youtube
           - url: https://youtu.be/asUJARQuopI?si=ll9X8w6GLCcjU4Zf  
 
-      - title: Crypto-Compassion Campaign (2019)
-        content: Led a nonprofit initiative that raised and matched BTC donations to provide essential tech to underserved K–12 students.
+      - title: The Crypto-Compassion Campaign
+        content: A nonprofit initiative that raised and matched BTC donations to provide essential tech to underserved K–12 students.
         image: /images/projects/c3/c3-logo.png
         featured:
           name: View Details
-          link: /blogs/c3/
+          link: https://portfolium.com/entry/crypto-compassion-campaign-c3
         badges:
           - "Nonprofit"
           - "Project Management"
@@ -456,7 +456,21 @@ params:
           - "Bitcoin"
         links:
           - icon: fab fa-youtube
-          - url: https://youtu.be/U6pI5ZgmyQ8?si=fQzCb0STrEqK60y7  
+          - url: https://youtu.be/U6pI5ZgmyQ8?si=fQzCb0STrEqK60y7 
+
+      - title: Network Topology Blueprint, CBAX Communications
+        content: A comprehensive end-to-end network infrastructure design for a hypothetical law firm, covering topology, WAN configuration, hardware and software provisioning, budgeting, and executive presentation, earning first place in the course and recognition as an Instructure Staff Pick.
+        image: /images/projects/cbax/cbax.png 
+        featured:
+          name: View Details
+          link: https://portfolium.com/entry/cbax-network-setup
+        badges:
+          - "Computer Networking"
+          - "Network Topology"
+          - "Microsoft PowerPoint"
+          - "Infrastructure Design"
+          - "Strategic Planning"
+          
 
 
   #Contact
