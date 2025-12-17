@@ -377,11 +377,11 @@ params:
           name: View Details
           link: /blogs/portfolio-revamp/
         badges:
-          - "Hugo"
-          - "VS Code"
-          - "GitHub" 
+          - "Git"
+          - "GitHub"
+          - "VS Code" 
           - "Vercel" 
-          - "CI/CD"
+          - "HTML/CSS"
         links:
           - icon: fab fa-github
             url: https://www.github.com/corey-wooten/portfolio
@@ -426,9 +426,9 @@ params:
           link: /blogs/ankr-status-hub/
         badges:
           - "Grafana"
-          - "Atlassian Statuspage"
-          - "Make.com"
-          - "PromQL"
+          - "Incident Response"
+          - "Automation"
+          - "Promethueus/PromQL"
           - "DevOps"
         # links:
          # - icon: fab fa-ankr
@@ -444,8 +444,8 @@ params:
         - "Blockchain"
         - "Node Deployment"
         - "Ubuntu Server"
-        - "Cardano"
-        - "DevOps"
+        - "Cryptocurrency"
+        - "Web3"
 
       - title: Smart Solar Project Kits, ETHR*ENRG
         content: A hands-on educational initiative focused on clean energy, featuring a series of DIY Smart Solar Kits with visual instructions tailored to youth and young adults.
@@ -478,6 +478,19 @@ params:
         links:
           - icon: fab fa-youtube
           - url: https://youtu.be/U6pI5ZgmyQ8?si=fQzCb0STrEqK60y7 
+
+      - title: Wind Turbine Rotor Restoration and Hardware Diagnostics
+        content: A hands-on engineering internship centered on restoring and validating wind turbine rotor components through circuit-level diagnostics, precision soldering, and component testing under the mentorship of a lead electrical engineer, ensuring repaired systems met operational and safety standards for redeployment.
+        image: /images/projects/turbine/turbine.png 
+        featured:
+          name: View Details
+          link: https://portfolium.com/entry/cbax-network-setup
+        badges:
+          - "Hardware Diagnostics"
+          - "Technical Repair"
+          - "Circuit Analysis"
+          - "Electrical Safety"
+          - "Quality Assurance"
 
       - title: Network Topology Blueprint, CBAX Communications
         content: A comprehensive end-to-end network infrastructure design for a hypothetical law firm, covering topology, WAN configuration, hardware and software provisioning, budgeting, and executive presentation, earning first place in the course and recognition as an Instructure Staff Pick.
