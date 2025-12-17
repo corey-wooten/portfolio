@@ -431,7 +431,7 @@ params:
         image: /images/projects/ether-energy/ee-logo-new.png
         featured:
           name: View Details
-          link: /blogs/ether-energy/
+          link: https://portfolium.com/entry/etherenergy-smart-stylish-solar-accessories
         badges:
           - "Renewable Energy"
           - "STEM Education"
