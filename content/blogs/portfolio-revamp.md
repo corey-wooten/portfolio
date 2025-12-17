@@ -7,26 +7,26 @@ draft: false
 github_link: "https://github.com/corey-wooten/portfolio"
 author: "Corey Wooten"
 tags:
-  - Portfolio
   - Hugo
-  - VS Code 
-  - Vercel 
-  - GitHub
+  - Git
+  - Vercel
+  - DNS
+  - Markdown
+  - VS Code
 image: /images/projects/misc/portfolio_650x375.png
 description: "How I rebuilt my online portfolio from scratch using VS Code, GitHub, and Vercel."
 toc: false
 ---
 
-#### 🔎 Project's Purpose 
+#### 🔎 Overview
 After maintaining a Wix-based site for several years, I decided to rebuild my personal portfolio from scratch, not only to cut hosting costs, but also to enhance the design and challenge myself technically. My original site cost over $200/year to host online. However, I realized I could host a fully customized, static portfolio for free using Hugo and GitHub Pages, so I dove in.
 
-#### ⚙️ Tools and Tech 
+#### ⚙️ Execution
 I built the site locally in VS Code, handled version control with Git and GitHub, and used Markdown and HTML to structure content across pages and blog posts. I initially deployed with Netlify but encountered issues with image rendering and static asset handling. Switching to Vercel drastically improved the CI/CD experience, allowing smooth, auto-deployed updates with every Git push. 
-
-#### 🛜 Domain Setup & Deployment 
+<br><br>
 To finalize everything, I reconfigured my domain’s DNS settings to properly route traffic and ensured SSL was active for secure access. This step completed the transition from Wix to a fully self-managed web presence. 
 
-#### 🧠 Acquired Skills 
+#### ✅ Acquired Skills 
 This project sharpened my technical foundation and gave me hands-on experience with tools and workflows commonly used in modern web development. Key skills acquired include: 
 - Version Control & GitHub Workflows 
   - Branch management 

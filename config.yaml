@@ -425,11 +425,11 @@ params:
           name: View Details
           link: /blogs/rpc-dashboard/
         badges:
-          - "Grafana"
-          - "Incident Response"
-          - "Automation"
-          - "Promethueus/PromQL"
-          - "DevOps"
+            - "Grafana"
+            - "Prometheus"
+            - "Monitoring"
+            - "Blockchain"
+            - "DevOps"
         # links:
          # - icon: fab fa-ankr
          # - url: http://status.ankr.com/   
@@ -441,11 +441,11 @@ params:
           name: View Details
           link: https://corey-wooten.wixsite.com/coreywooten/post/launching-cardano-nodes-from-a-remote-server
         badges:
+        - "Cardano"
+        - "Linux"
         - "Blockchain"
-        - "Node Deployment"
-        - "Ubuntu Server"
-        - "Cryptocurrency"
-        - "Web3"
+        - "Networking"
+        - "DevOps"
 
       - title: Smart Solar Project Kits, ETHR*ENRG
         content: A hands-on educational initiative focused on clean energy, featuring a series of DIY Smart Solar Kits with visual instructions tailored to youth and young adults.
@@ -454,11 +454,11 @@ params:
           name: View Details
           link: https://portfolium.com/entry/etherenergy-smart-stylish-solar-accessories
         badges:
-          - "Renewable Energy"
-          - "STEM Education"
-          - "Solar Power"
-          - "Youth Outreach"
+          - "Solar"
+          - "Education"
           - "DIY"
+          - "Sustainability"
+          - "Electronics Design"
         links:
           - icon: fab fa-youtube
           - url: https://youtu.be/asUJARQuopI?si=ll9X8w6GLCcjU4Zf  
