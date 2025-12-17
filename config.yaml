@@ -386,7 +386,7 @@ params:
           - icon: fab fa-github
             url: https://www.github.com/corey-wooten/portfolio
 
-      - title: Elevating Entertainment; A Strategic Blueprint of Six Flags Entertainment Corporation
+      - title: Elevating Entertainment – A Strategic Blueprint of Six Flags Entertainment Corporation
         content: A concise video analysis of Six Flags’ strategic direction, highlighting its 2024 merger with Cedar Fair and use of frameworks like Porter’s Five Forces and the VRIO model to drive growth and differentiation.
         image: /images/projects/misc/ee_650x375.png
         featured:
