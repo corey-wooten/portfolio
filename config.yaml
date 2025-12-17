@@ -136,10 +136,10 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hello,"
+    intro: "Greetings,"
     title: "I'm Corey."
-    subtitle: "Creative. Technical. Innovative. ⚡️"
-    content: "Tech-savvy builder and visionary blending engineering with creative problem-solving. I turn complex challenges into clean, scalable systems; always with an eye toward what’s next. Proven success launching scalable systems, optimizing operations, and leading global initiatives that bridge innovation with real-world impact."
+    subtitle: "Builder. Leader. Innovator. ⚡️"
+    content: "I build and support technical systems that hold up under real-world pressure, not just on paper. With experience across engineering, infrastructure, SaaS, and analytics environments, I translate complex technical data into clear, actionable decisions. I am known for disciplined planning, precise execution, and steady leadership in high-stakes situations. Outside of tech, I'm a Certified Personal Trainer (CPT) and Nutrition Coach (CNC), bringing a structured, results-driven mindset focused on consistency, progress, and growth. My work sits at the intersection of technology, strategy, and people, where reliable systems and aligned teams drive meaningful outcomes."
     image: /images/corey-7sd.png
     bottomImage:
       enable: true
@@ -161,83 +161,91 @@ params:
   # About
   about:
     enable: true
-    title: "💡 About Me"
-    image: "/images/me-2.png"
+    title: "📖 My Story"
+    image: "/images/hs2025.png"
     content: |- 
 
        <p class="d-block d-lg-none text-center">
        <img src="/images/me-2.png" alt="Corey Wooten" class="img-fluid rounded-circle" style="max-width: 75%;" />
        </p>
 
-       I’m a curious, solutions-first kind of person with a background in engineering, Web3, and digital systems. I’ve worked across startups and global teams, launching platforms, refining ops, and translating technical goals into real-world results. 
-      
-       I enjoy building things that actually work and making the process smoother for everyone involved. Whether it’s designing solutions, leading projects, or breaking down complex ideas, I bring both strategy and execution to the table. 
-      
-       I hold a Bachelor's degree in Computer Systems Technology and an MBA conecentrated in Cybersecurity. Further, I’m focused on leading innovative, future-ready teams. If it involves innovation, collaboration, and strategic thinking, I’m all in.
+          I design systems that scale, perform, and reflect how people actually work. My approach blends technical structure with human-centered thinking, so solutions remain clear, usable, and effective as they grow. Whether refining cloud workflows, building dashboards, or developing client-facing tools, I focus on adaptability, clarity, and strong execution.
+        
+          My background in engineering technology and cybersecurity, combined with experience in fitness and behavioral coaching, gives me a practical perspective on systems design. I understand how engagement, process optimization, and accountability influence outcomes across both digital platforms and human performance. That perspective helps me build solutions teams can adopt, trust, and sustain.
+        
+          I work best in complex environments that demand both precision and leadership. I bring structure to ambiguity, create frameworks that support growth and stability, and evolve systems as needs change.
+       
+
 
     skills:
       enable: true
-      title: "Here are a few technologies I've worked with:"
+      title: "Areas of Expertise:"
       items:
-        - "Atlassian Software"
-        - "AI / ML"
-        - "AWS & Azure"
-        - "Blockchain / Web3"
-        - "Git / Github"
-        - "Grafana / Splunk"
-        - "HTML / CSS"
-        - "SQL"
-        - "Tableau"
+        - "Cloud Infrastructure <br> (AWS, Azure, GCP)"
+        - "Emerging Technologies <br> (Web3, Blockchain)" 
+        - "Cybersecurity Fundamentals <br> (NIST, CIS Controls)"
+        - "DevOps Automation <br> (CI/CD, Grafana, Prometheus)"
+        - "Distributed Systems <br> (IoT)"
+        - "Customer Support <br> (Zendesk, Jira)"
+        - "Technical Documentation"
+        - "Program/Project Management"
+        - "Data Analytics"
+        - "Business Intelligence"
+        - "Incident Response"
+        - "Product Adoption"
+        - "Security Compliance"
+        - "Customer Success"
+        - "Process Optimization"
+        - "Fitness/Nutrition Coaching"
 
   # Experience
   experience:
     enable: true
-    title: "📌 Experience"
+    title: "💼 Work History"
     items:
-      - job: "Certified Personal Trainer and Nutrition Coach"
+      - job: "Certified Personal Trainer, Nutrition Coach, Group Fitness Instructor"
         company: "ClubFitness"
         companyUrl: "https://clubfitnessgso.com"
-        date: "Jul 2024 - Present"
+        date: "June 2024 – Current"
         featuredLink:
           enable: false
           name: "View the project"
           url: "https://example.com"
         content: |-
-          - Managed a portfolio of 20+ clients with Trainerize, applying cloud-based program design, real-time performance tracking, and asynchronous communication channels to personalize fitness plans and monitor progress data.
-          - Scaled client acquisition to 50+ within six (6) months through targeted outreach, data-driven programming, and personalized onboarding workflows that prioritized long-term adherence and measurable outcomes.
-          - Developed adaptive fitness solutions for clients aged 16-84, integrating biometric feedback and mobility assessments; notably improved an elderly client's mobility to eliminate reliance on assisted walking devices.
-
-      - job: "Professional Development and Career Transition"
-        company: "Career Break"
-        companyUrl: null
-        date: "Oct 2023 - Jul 2024"
-        featuredLink:
-          enable: false
-          name: "View the project"
-          url: "https://example.com"
-        content: |-
-          - Enrolled in graduate school for an MBA concentrated in Cybersecurity (completed March 2025).
-          - Earned certifications in Personal Training, Nutrition Coaching, and CPR / First Aid (March 2024).
-          - Led freelance web design projects that strengthened creative problem-solving, client communication, and technical execution. 
-          - Reinvested in long-term career goals by exploring roles across tech, fitness, engineering, and themed entertainment, enhancing adaptability and strategic thinking.
+          - Drove a 36% lead-to-client conversion rate within 1 year by identifying client goals and aligning them with tailored services. 
+          - Built a client portfolio from 0 to 50+ within 6 months by implementing structured onboarding and referral-based sales strategies. 
+          - Achieved a 25% increase in client retention across Q1 and Q2 2025 through personalized training and nutrition program sales.
+          
+          _Acquired Skills:_
+          - _Customer Needs Analysis_
+          - _Sales Conversion_ 
+          - _Client Retention_ 
+          - _Relationship Management_ 
+          - _Performance Tracking_
 
       - job: "Evolving Roles"
         company: "Ankr"
         companyUrl: "https://ankr.com"
-        date: "Dec 2021 - Oct 2023"
+        date: "December 2021 – October 2023"
         featuredLink:
           enable: false
           name: "View Deliverable"
           url: "http://status.ankr.com"
         content: |-
           
-            ###### Lead Product Success Engineer (Jul 2022 - Oct 2023)
-            - Developed and launched a real-time Grafana dashboard to monitor 40+ blockchain RPC networks, boosting infrastructure reliability and visibility. 
+            ##### Technical Account Manager (07/2022 – 10/2023)
+            - Engineered and deployed a real-time Grafana dashboard to monitor 40+ blockchain RPC networks, boosting infrastructure reliability and visibility. 
             - Drove a 95%+ customer satisfaction rate by optimizing technical documentation and support systems, enabling efficient resolution of complex issues. 
             - Acted as a strategic liaison between Sales, Product, and DevOps, guiding the development of Web3 solutions for 10+ emerging blockchain companies.
-            - 🔗  **[View Deliverable](https://status.ankr.com)** 
+            
+            ###### Acquired Skills: 
+            - Technical Systems Monitoring 
+            - Cross-Functional Stakeholder Alignment 
+            - Customer Success Strategy 
+            - Data-Driven Decision Making 
+            - Technical Communication 
 
-            ###### Technical Program Manager (Dec 2021 - Jul 2022)
+            ##### Technical Program Manager, Product Docs and Digital Media (12/2021 - 07/2022)
             - Streamlined the documentation pipeline by integrating GitHub Pull Request workflows with Visual Studio Code, cutting review and deployment time by 35%. 
             - Increased user engagement by 20% through strategic content enhancements and technical education initiatives. 
             - Produced a series of educational Web3 videos to drive awareness around digital wallets, decentralized gaming, and emerging blockchain technologies.
@@ -245,26 +253,26 @@ params:
       - job: "Evolving Roles"
         company: "GPX Intelligence"
         companyUrl: "https://gpx.co"
-        date: "Feb 2020 - Nov 2021"
+        date: "February 2020 - November 2021"
         featuredLink:
           enable: false
           name: "View the project"
           url: "https://example.com"
         content: |-
         
-            ###### Records Manager (Feb 2021 - Nov 2021)
+            Legal Compliance Manager (02/2021 - 11/2021)
             - Built and implemented the company's first integrated legal inquiry database, reducing claim response times by roughly 36 hours. 
             - Handled ethical data collection and reporting for multiple claims each week for law enforcement, attornies, and government agencies.
          
-            ###### RMA Coordinator (May 2020 - Feb 2021)
+            Returns Coordinator (05/2020 - 02/2021)
             - Managed and processed 25+ daily returns in WooCommerce, issuing refunds, refurbishing, and restocking devices to maintain quality control. 
             - Developed a standardized RMA process using automations and platform integrations, curring return handling time by over 10 hours.  
 
-            ###### IoT Customer Success and Product Specialist (Feb 2020 - Nov 2021)
+            IoT Customer Success Lead (02/2020 - 11/2021)
             - Diagnosed and resolved technical issues for 50+ GPS-enabled devices daily using IoT platforms (Hologram, Twilio, AT&T, Verizon). 
             - Crafted 100+ Zendesk macros with Liquid Markup, reducing support response times by six (6) hours within one (1) month. 
           
-      - job: "Founder and CEO"
+      - job: "Owner and Founder"
         company: "Mind Body Muscle"
         companyUrl: "https://corey-wooten.wixsite.com/website"
         date: "Feb 2017 - Mar 2020"
@@ -274,65 +282,40 @@ params:
           enable: false
           url: "https://example.com"
         content: |
-          - Founded a direct-to-consumer fitness brand and launched two physical products via Shopify and Amazon FBA, scaling to $15.5K in quarterly sales and increasing revenue by 35% over two (2) quarters.
+          - Founded a direct-to-consumer fitness brand and launched two (2) physical products via Shopify and Amazon FBA, scaling to $15.5K in quarterly sales and increasing revenue by 35% over two (2) quarters.
           - Engineered SEO-optimized marketing funnels and analytics-backed campaigns, increasing site traffic by 40% and improving conversion rates through targeted keyword strategies and customer behavior tracking.
           - Orchestrated end-to-end global supply chain operations, coordinating with international vendors to import 1,000+ units per batch while ensuring compliance with customs and logistics regulations.
   
   # Education
   education:
     enable: true
-    title: "🎓 Education"
+    title: "🎓 Academics"
     index: false
     items:
-      - title: "Master of Business Administration (MBA)"
+      - title: "Master of Business Administration (M. B. A.)"
         school:
           name: "University of North Carolina at Wilmington"
           url: "https://uncw.edu"
         date: " "
         GPA: "3.83 out of 4.00"
         content: |-
-            *Cybersecurity Concentration*
+            <small>_Cybersecurity Concentration_</small>
+            - <small>_Built a strong foundation in risk management, secure systems, and technology-driven business strategy._</small>
+            - <small>_Applied security and compliance principles to evaluate technical and operational decisions through a business-focused lens._</small>
+            - <small>_Prepared to lead cross-functional initiatives where security, scalability, and regulatory requirements drive long-term success._</small>          
             
-            **Acquired Skills**
-            
-            ###### Strategic and Analytical
-              - Business intelligence and data interpretation
-              - Predictive modeling and Statistical Analysis (JMP Pro, Excel) 
-              - Financial Modeling and valuation techniques (Excel) 
-              - Strategic planning and performance measurement 
-              - Legal and regulatory risk assessment 
-            
-            ###### Cybersecurity and Technical
-              - Threat detection, logging, and monitoring (Microsoft Sentinel, Splunk) 
-              - Network traffic analysis (TShark, Wireshark) 
-              - Cybersecurity strategy development and governance 
-              - Risk management and incident response frameworks 
-              - Data privacy and compliance 
-           
-            ###### Data and Information Management
-              - Relational database design and querying (Microsoft Access) 
-              - Data visualization and storytelling (Canva, Excel, PowerPoint)
-              - Workflow documentation and process automation 
-              - Cloud-based collaboration and file management (OneDrive, Teams) 
-
-            ###### Cross-Functional Business Tools
-              - CRM insights and customer segmentation 
-              - Go-to-market planning and marketing analytics
-              - Supply chain optics and operational decision-making 
-              - Public speaking and executive-level presentations (PowerPoint, YouTube)
-           
-      - title: "Bachelor of Science (BS) in Computer Systems Technology"
+      - title: "Bachelor of Science (B. S.) in Computer Systems Technology"
         school:
-          name: "North Carolina A&T State University"
+          name: "North Carolina Agricultural and Technical State University"
           url: "https://ncat.edu"
         date: " "
         GPA: "3.75 out of 4.00"
         content: |-
-          **Activities and Accomplishments**
-            - Magna Cum Laude Honors
-            - NCAT Electronics Club 
-            - UNCF HBCU Innovation Summit 
-            - CIEE: Business and Culture Shanghai (Study Abroad)
+          **Notable Achievements**
+            - <small>_Magna Cum Laude Honors_</small>
+            - <small>_NCAT Electronics Club_</small> 
+            - <small>_HBCU Innovation Summit – Silicon Valley, CA (2018, 2019)_</small>
+            - <small>_CIEE: Business and Culture – East China Normal University, Shanghai, CN (2018)_</small>
 
         featuredLink:
           enable: false
@@ -364,7 +347,7 @@ params:
   # projects
   projects:
     enable: true
-    title: "🛠️ Projects"
+    title: "🛠️ Projects and Credentials"
     items:
       - title: Portfolio Revamp (2025)
         content: See how I rebuilt my professional portfolio from scratch using VS Code, GitHub, and Vercel; migrating from Wix to a custom Hugo static site.
