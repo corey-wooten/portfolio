@@ -130,7 +130,7 @@ params:
       disableExperience: false
       disableEducation: false
       disableProjects: false
-      disableAchievements: true
+      disableAchievements: false
       disableContact: false
 
   # Hero
@@ -161,7 +161,7 @@ params:
   # About
   about:
     enable: true
-    title: "📖 My Story"
+    title: "💡 My Story"
     image: "/images/hs2025.png"
     content: |- 
 
@@ -202,7 +202,7 @@ params:
   # Experience
   experience:
     enable: true
-    title: "💼 Experience"
+    title: "✅ Experience"
     items:
       - job: "eCommerce Business Owner (Amazon, eBay, Shopify, Mercari)"
         company: "Independent"
@@ -310,7 +310,7 @@ params:
   # Education
   education:
     enable: true
-    title: "🎓 Academics"
+    title: "📚 Education"
     index: false
     items:
       - title: "Master of Business Administration (M. B. A.)"
@@ -345,20 +345,20 @@ params:
   
   # Professional Growth
   achievements:
-    enable: false
-    title: "📈 Professional Growth"
+    enable: true
+    title: "🏆 Credentials"
     items:
-      - title: AWS Cloud for Technical Professionals
-        content: Trailhead by Salesforce
-        url: https://salesforce.com/trailblazer/coreywooten
-        image: /images/aws-cloud.jpeg
+      - title: Certified Funded Trader (TopStep)
+        content: Achieved Certified Funded Trader status with Topstep, demonstrating mastery of risk management, data-driven decision making, trade execution discipline, emotional control under pressure, and performance accountability within a rules-based, high-stakes environment.
+        url: https://trm-topstep-assets.s3.amazonaws.com/certificatepdfs/c7f20a9b-8fc4-4c49-988c-ed63f21b7177.pdf
+        image: /images/achievements/topstep/fundedtrader.png
       - title: Facebook Hackathon Winner
         content: Developed a product using Artificial Intelligence.
-        image: /images/achievement.jpg
+        image: 
       - title: Hugo Profile
         content: Developed a theme and getting 1K+ downloads per month.
         url: "https://github.com/gurusabarish/hugo-profile"
-        image: /images/achievement.jpg
+        image: 
       - title: Microsoft Imagine Runner
         content: We are developed a product which can help others.
       - title: Google Summer of Code
@@ -368,7 +368,7 @@ params:
   # projects
   projects:
     enable: true
-    title: "🛠️ Projects and Credentials"
+    title: "🛠️ Projects"
     items:
       - title: Portfolio Revamp
         content: An overview of how I rebuilt my professional portfolio from scratch using VS Code, GitHub, and Vercel; migrating from Wix to a custom Hugo static site.
@@ -423,7 +423,7 @@ params:
         image: /images/projects/misc/status_650x375.png
         featured:
           name: View Details
-          link: /blogs/ankr-status-hub/
+          link: /blogs/rpc-dashboard/
         badges:
           - "Grafana"
           - "Incident Response"
@@ -510,7 +510,7 @@ params:
   #Contact
   contact:
     enable: true
-    title: "📥 Let's Connect"
+    title: "📥 Contact"
     content: Complete the form below to get in touch. I'll get back to you as soon as possible!
     btnName: Send Message
     btnLink: mailto:corey@coreywooten.com
