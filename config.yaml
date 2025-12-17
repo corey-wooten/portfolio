@@ -139,7 +139,7 @@ params:
     intro: "Greetings,"
     title: "I'm Corey."
     subtitle: "Builder. Leader. Innovator. ⚡️"
-    content: "I build and support technical systems that hold up under real-world pressure, not just on paper. With experience across engineering, infrastructure, SaaS, and analytics environments, I translate complex technical data into clear, actionable decisions. I am known for disciplined planning, precise execution, and steady leadership in high-stakes situations. Outside of tech, I'm a Certified Personal Trainer (CPT) and Nutrition Coach (CNC), bringing a structured, results-driven mindset focused on consistency, progress, and growth. My work sits at the intersection of technology, strategy, and people, where reliable systems and aligned teams drive meaningful outcomes."
+    content: "I build and support technical systems that hold up under real-world pressure, not just on paper. With experience across engineering, infrastructure, SaaS, and analytics environments, I translate complex technical data into clear, actionable decisions. I am known for disciplined planning, precise execution, and steady leadership in high-stakes situations. <br><br> Outside of tech, I'm a Certified Personal Trainer (CPT) and Nutrition Coach (CNC), bringing a structured, results-driven mindset focused on consistency, progress, and growth. My work sits at the intersection of technology, strategy, and people, where reliable systems and aligned teams drive meaningful outcomes."
     image: /images/corey-7sd.png
     bottomImage:
       enable: true
