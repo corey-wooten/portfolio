@@ -169,11 +169,11 @@ params:
        <img src="/images/me-2.png" alt="Corey Wooten" class="img-fluid rounded-circle" style="max-width: 75%;" />
        </p>
 
-          I design systems that scale, perform, and reflect how people actually work. My approach blends technical structure with human-centered thinking, so solutions remain clear, usable, and effective as they grow. Whether refining cloud workflows, building dashboards, or developing client-facing tools, I focus on adaptability, clarity, and strong execution.
+          <small>I design systems that scale, perform, and reflect how people actually work. My approach blends technical structure with human-centered thinking, so solutions remain clear, usable, and effective as they grow. Whether refining cloud workflows, building dashboards, or developing client-facing tools, I focus on adaptability, clarity, and strong execution.</small>
         
-          My background in engineering technology and cybersecurity, combined with experience in fitness and behavioral coaching, gives me a practical perspective on systems design. I understand how engagement, process optimization, and accountability influence outcomes across both digital platforms and human performance. That perspective helps me build solutions teams can adopt, trust, and sustain.
+          <small>My background in engineering technology and cybersecurity, combined with experience in fitness and behavioral coaching, gives me a practical perspective on systems design. I understand how engagement, process optimization, and accountability influence outcomes across both digital platforms and human performance. That perspective helps me build solutions teams can adopt, trust, and sustain.</small>
         
-          I work best in complex environments that demand both precision and leadership. I bring structure to ambiguity, create frameworks that support growth and stability, and evolve systems as needs change.
+          <small>I work best in complex environments that demand both precision and leadership. I bring structure to ambiguity, create frameworks that support growth and stability, and evolve systems as needs change.</small>
        
 
 
@@ -181,23 +181,24 @@ params:
       enable: true
       title: "Areas of Expertise:"
       items:
-        - "Cloud Infrastructure <br> (AWS, Azure, GCP)"
-        - "Emerging Technologies <br> (Web3, Blockchain)" 
-        - "Cybersecurity Fundamentals <br> (NIST, CIS Controls)"
-        - "DevOps Automation <br> (CI/CD, Grafana, Prometheus)"
-        - "Distributed Systems <br> (IoT)"
-        - "eCommerce"
-        - "Customer Support <br> (Zendesk, Jira)"
-        - "Technical Documentation"
-        - "Program/Project Management"
-        - "Data Analytics"
-        - "Business Intelligence"
-        - "Incident Response"
-        - "Product Adoption"
-        - "Security Compliance"
-        - "Customer Success"
-        - "Process Optimization"
-        - "Fitness/Nutrition Coaching"
+        - <small>Cloud Infrastructure (AWS, Azure, GCP)</small>
+        - <small>Emerging Technologies (Web3, Blockchain) </small>
+        - <small>Cybersecurity (NIST, CIS Controls, Incident Response)</small>
+        - <small>Technical Support and Troubleshooting</small>
+        - <small>DevOps (CI/CD, Grafana, Splunk)</small>
+        - <small>Distributed Systems (IoT)</small>
+        - <small>eCommerce (Amazon FBA, eBay, Shopify)</small>
+        - <small>CRM (HubSpot, Jira, Zendesk)</small>
+        - <small>Technical Writing and Documentation</small>
+        - <small>Program/Project Management</small>
+        - <small>Data Analytics (Tableau, Power BI)</small>
+        - <small>Digital Marketing and SEO</small>
+        - <small>Business Intelligence</small>
+        - <small>Product Enablement and Adoption</small>
+        - <small>Technical Training and Education</small>
+        - <small>Customer Success</small>
+        - <small>Process Optimization</small>
+        - <small>Fitness/Nutrition Coaching</small>
 
   # Experience
   experience:
