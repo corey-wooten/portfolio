@@ -16,4 +16,4 @@ description: "A step-by-step tutorial for launching a passive Cardano (ADA) rela
 toc: false
 --- 
 
-Check back soon!
+ 
