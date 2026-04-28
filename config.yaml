@@ -202,7 +202,7 @@ params:
 
   # Experience
   experience:
-    enable: true
+    enable: false
     title: "✅ Experience"
     items:
       - job: "eCommerce Business Owner (Amazon, eBay, Shopify, Mercari)"
